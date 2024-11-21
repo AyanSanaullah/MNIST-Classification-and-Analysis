@@ -14,28 +14,16 @@ Metric	Accuracy
 Training	~25.2%
 Validation	~26.2%
 Testing	~26.8%
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/CAP4613_Assignment4.git
-Navigate to the project directory:
-bash
-Copy code
-cd CAP4613_Assignment4
-Install required dependencies:
-bash
-Copy code
-pip install numpy matplotlib tensorflow keras
+
 Usage
-Open the Jupyter Notebook CAP4613_Assignment4.ipynb.
+Open the Jupyter Notebook.
 Run the cells step by step to:
 Visualize and explore the MNIST dataset.
 Process data for binary classification.
 Compute the feature (center pixel average).
 Evaluate classification performance.
 Project Structure
-CAP4613_Assignment4.ipynb: The main notebook containing all code and analysis.
+The main notebook containing all code and analysis.
 LICENSE: The project license (MIT License).
 Future Work
 Improve accuracy using advanced machine learning or deep learning methods.
