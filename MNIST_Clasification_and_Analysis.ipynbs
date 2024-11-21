@@ -208,8 +208,6 @@
         "    plt.xlabel('Epoch')\n",
         "    plt.ylabel('Cost')\n",
         "    plt.show()\n",
-        "\n",
-        "#f. As the learning rate decrease the learning curve becomes less and less steep.  Learning rate .001 is most suitable because it has the least training cost."
       ]
     }
   ]
